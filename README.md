@@ -1,5 +1,5 @@
 # big-ideas-final
-A data analysis of the Pittsburgh area to determine the "best" neighborhood.
+A data analysis of the Pittsburgh area to determine the "best" neighborhood, by determining which neighborhood is the safest.
 ## Team Name: Team TT
 
 
